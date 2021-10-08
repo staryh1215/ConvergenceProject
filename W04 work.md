@@ -18,3 +18,5 @@
 15. sphere도 Frequency 값 조정해서 쪼개주고, 밑에 subdivide 노드 생성 후 연결
 16. Null 노드 두 개 생성해서 각각 boolean, blast 밑에 이어준 후 IN_GEO, IN_PARTICLE_EMITTER로 이름 변경
 17. PopNetwork 노드 생성 후 IN_PARTICLE_EMITTER에 첫 번째로 연결 
+
+40분부터 이어서 보기 
